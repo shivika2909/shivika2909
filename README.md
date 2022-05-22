@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivika2909
+- 👋 Hi, I’m @shivika
 - 👀 I’m interested in Software Dev
 - 🌱 I’m currently learning java and more stuffs.
 - 💞️ I’m looking to collaborate on ...
