@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shivika
-- 👀 I’m interested in Software Dev
+- 👋 Hi, I’m @shivika Chauhan 
+- 👀 I’m interested in Software Engineer 
 - 🌱 I’m currently learning java and more stuffs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
